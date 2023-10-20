@@ -3,3 +3,7 @@
 ################################################################################
 
 /MultipleDbContext/.vs
+/MultipleDbContext/MultipleDbContext/bin/Debug/net7.0
+/MultipleDbContext/MultipleDbContext/obj
+/MultipleDbContext/WebApi1/bin/Debug/net7.0
+/MultipleDbContext/WebApi1/obj
